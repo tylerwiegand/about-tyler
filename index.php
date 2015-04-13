@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 	<head>
-		<link rel="stylesheet" type="text/css" href="about-tyler.css">
+		<link rel="stylesheet" type="text/css" href="css/about-tyler.css">
 		<title>How I Learned To Stop Worrying And Finish The Prework</title>
 	</head>
 	<body>
@@ -17,6 +17,6 @@
 				sleeping bag, and his trusty laptop "Sally."
 		</p>
 		<br>
-		<img src="tyler.png" alt="Tyler at 16">
+		<img src="img/tyler.png" alt="Tyler at 16">
 	</body>
 </html>
