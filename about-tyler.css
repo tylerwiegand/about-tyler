@@ -1,8 +1,7 @@
-body.inverted
+body
 	{
-	filter: invert(100%);
 	background-color: white;
 	color: black;
 	margin-left: 20px;
-	max-width: 100px;
+	max-width: 10px;
 	}
