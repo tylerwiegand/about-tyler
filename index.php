@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 	<head>
-			<title>How I Learned To Stop Worrying And Finish The Prework</title>
+		<link rel="stylesheet" type="text/css" href="about-tyler.css">
+		<title>How I Learned To Stop Worrying And Finish The Prework</title>
 	</head>
 	<body>
 		<p>
