@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<p>
-			At age five, Tyler had already completed the ten pre-requisites for induction into the hall of shame. By twelve
+			<t>At age five, Tyler had already completed the ten pre-requisites for induction into the hall of shame. By twelve
 			he had managed to wrestle an alligator, and assist with the construction of the Hoover Dam (the second one).
 			By twenty he had opened and closed ten major musical retailers, noting that the profit margins did not represent
 			the stairway to heaven pictured.</p>
