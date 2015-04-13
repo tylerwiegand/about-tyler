@@ -15,5 +15,5 @@ h1
 	 height: 50%;
 	 width: 50%;
 	 -webkit-filter: invert(1);
-	align-items: center;
+	 float: center;
  }
