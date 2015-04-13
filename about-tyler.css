@@ -4,5 +4,7 @@ body
 	color: black;
 	margin-left: 20px;
 	max-width: 500px;
-	filter: progid:DXImageTransform.Microsoft.BasicImage(invert=1);
-	}
+}
+ img {
+	 -webkit-filter: invert(1);
+ }
